@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "title": "Duchenne Myths and Misconceptions",
+      "content": "Duchenne Muscular Dystrophy is a degenerative condition caused by a mutation on the DMD gene, which is responsible for the production of dystrophin, a protein that helps muscles recover. Duchenne is a complicated disorder leading to various myths or misconceptions about those living with it. Below are often 3 myths people may have about Duchenne, and some further information about each one in addition to some further information about each statement.",
+      "byName": "Chahat",
+      "contact": "9518047690",
+      "id": 3
+    },
+    {
+      "title": "Let’s Talk: 5 Successful CRISPR Trials in Gene Therapy",
+      "content": "Today, in scientific news, we commonly see CRISPR in the headlines. Whether that is it being used by researchers in various trials, by scientists to cure a genetic disease, or even creating drought-resistant crops, it has a range of real-world applications. In this blog, we go over some successful CRISPR trials in gene therapy to help you get a better idea of the relevant uses of CRISPR.",
+      "byName": "deekshant",
+      "contact": "abcdse",
+      "id": 5
+    },
+    {
+      "title": "How COVID Impacted These Two Rare Disease Families",
+      "content": "With an immunocompromised son, how could we not be terrified of COVID making its way into our home? For the past two years, we’ve been so careful to limit exposure; we were able to homeschool our kids last year and we’ve been conscious of avoiding large crowds even with the vaccines. Our kids being able to receive the vaccine was a huge step for us in feeling less of the overwhelming worry of what would happen if any of us were to get COVID, but the concerns were still there. Our son Conner has Duchenne muscular dystrophy, so any virus could have a detrimental effect on his health. With DMD, the whole body is already fighting everyday so it’s possible that the body won’t be able to fight off any illnesses. The heart and lungs are also already working overtime, so the potential of getting a virus that is known to harm the heart and lungs is a scary thing",
+      "byName": "dev",
+      "contact": "123456789",
+      "id": 6
+    },
+    {
+      "title": " Pakistan: A new PM, an attempt to strike a positive note, and a sense of deja vu",
+      "content": "Newly elected Pakistan prime minister Shehbaz Sharif has indicated he wants good relations with India, a “just resolution” of the Kashmir issue and to focus on the country’s troubled economy. Prime Minister Narendra Modi, in turn, congratulated Sharif and reiterated India’s desire for peace and development in the region while highlighting that Pakistan’s support for terror groups was unacceptable.  For India, earlier attempts at negotiating with Pakistan’s civilian establishment were a failure because of the dominant role played by the Pakistan army in guiding the course of the country’s internal politics and external relations. Shehbaz’s mandate to govern is shaky, requiring support from arch-rival PPP amid mass resignations by Imran Khan’s PTI lawmakers requiring bypolls.  The frosty ties between PML(N) and the Army could also determine the course of India-Pakistan ties and the future of the new government. For the moment, Pakistan’s mounting economic troubles will certainly be top priority for Shehbaz and the Army. Whether these prerogatives will prompt Pakistan to dismantle the terror infrastructure and discontinue the proxy war remains to be seen. Given how Pakistan has received several bailouts without any discernible change in its Kashmir policy, India has good reason to remain sceptical about any dramatic breakthrough.",
+      "byName": "Ashok",
+      "contact": "123456789",
+      "id": 7
+    }
+  ]
+}
